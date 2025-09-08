@@ -1,6 +1,6 @@
 # AI Reasoning Frameworks
 
-Below is a table summarizing the reasoning frameworks used by AI agents, including their descriptions, mechanisms, use cases, strengths, and limitations.
+Below is a table summarizing the reasoning frameworks used by AI agents, including their descriptions, mechanisms, use cases, strengths, and limitations. (soure: grok)
 
 | Framework                  | Description                                                                 | How It Works                                                                                     | Use Cases                                                                 | Strengths                                                                 | Limitations                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
