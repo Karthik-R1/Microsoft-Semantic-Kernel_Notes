@@ -1,6 +1,6 @@
 # AI Agent Reasoning Techniques Summary
 
-Below is a summary of key reasoning techniques used by AI agents, focusing on Chain of Thought (CoT), Tree of Thought (ToT), and related methods, with their descriptions, mechanisms, use cases, strengths, and limitations.
+Below is a summary of key reasoning techniques used by AI agents, focusing on Chain of Thought (CoT), Tree of Thought (ToT), and related methods, with their descriptions, mechanisms, use cases, strengths, and limitations. (source:grok)
 
 | Technique                | Description                                                                 | How It Works                                                                                     | Use Cases                                                                 | Strengths                                                                 | Limitations                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
