@@ -1,4 +1,4 @@
-Following are the 'reasoning' frmeworks used by AI Agents. (source: grok)
+Following are the 'reasoning' frameworks used by AI Agents. (source: grok)
 
 
 | **Framework**           | **Description**                                                                 | **How It Works**                                                                 | **Use Cases**                                                                 | **Strengths**                                                                 | **Limitations**                                                                 |
